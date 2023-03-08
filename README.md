@@ -3,6 +3,8 @@
 We can save any current tab in which we are working on and also able to save any link 
 that we wanted to save in our browser. And anytime we can delete it whenever we want.
 
+To view it, simply visit https://aaravshukla15.github.io/Save-this-Tab/
+
 The following files present in this repo. leads with different opporations and work:
 
 index.html - Helps to work with UI & looks.And also connects the
